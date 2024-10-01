@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am passionate about Computer Science and all things tech.
 
+![good_quote](https://github.com/user-attachments/assets/cba617ad-ef3a-4ed9-9ba9-c69e3d518a8c)
+
+
 ### Skills 
 
 <p align="left">
