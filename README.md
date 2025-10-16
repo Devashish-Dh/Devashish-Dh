@@ -45,9 +45,6 @@ I am passionate about Computer Science and all things tech.
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
 </a>
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" />
-</a>
                     </p>
 
 ### Socials                  
