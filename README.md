@@ -1,45 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devashish Dhaulakhandi ...
-==================================================================================================================================================
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Devashish%20Dhaulakhandi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+</p>
 
-I am passionate about Computer Science and all things tech.
+<p align="center">I work on GPU systems and compilers.</p>
 
-![good_quote](https://github.com/user-attachments/assets/cba617ad-ef3a-4ed9-9ba9-c69e3d518a8c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cba617ad-ef3a-4ed9-9ba9-c69e3d518a8c" alt="Fairy tales are more than true" />
+</p>
 
+### Skills
 
-### Skills 
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,git,bash,mysql,postgres,arduino,raspberrypi&perline=9" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,cmake,mysql,postgres,docker,tensorflow,arduino,raspberrypi&perline=9" />
+</p>
 
+### Activity
 
-### Socials                  
-<p align="left">
-                      <a href="https://www.github.com/Devashish-Dh" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/devashish-dhaulakhandi-8305562bb/" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Devashish-Dh&hide_border=true" />
+</p>
 
+### More about me
 
-
-<!--
-**Devashish-Dh/Devashish-Dh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://devashish-dh.github.io/dev_portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-devashish--dh.github.io%2Fdev__portfolio-004e92?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
