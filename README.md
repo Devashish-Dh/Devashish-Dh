@@ -23,6 +23,12 @@
   <img src="./research.svg" />
 </p>
 
+### Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Devashish-Dh&hide_border=true" />
+</p>
+
 ### More about me
 
 <p align="center">
