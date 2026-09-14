@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
   <defs>
     <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#000428"/>
-      <stop offset="100%" stop-color="#00295e"/>
+      <stop offset="0%" stop-color="#000106"/>
+      <stop offset="100%" stop-color="#001535"/>
     </linearGradient>
     <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="2.5" result="b"/>
@@ -104,11 +104,11 @@
   </g>
 
   <g>
-    <path class="w1" fill="#001a3d" opacity="0.6"
+    <path class="w1" fill="#000d22" opacity="0.7"
       d="M -80 200 L -80 128 C 60 100, 180 152, 330 122 S 560 96, 700 126 S 940 158, 1080 124 S 1220 108, 1280 122 L 1280 200 Z"/>
-    <path class="w2" fill="#00264f" opacity="0.7"
+    <path class="w2" fill="#001230" opacity="0.8"
       d="M -80 200 L -80 146 C 80 118, 220 162, 380 138 S 620 112, 770 142 S 980 168, 1130 140 S 1240 126, 1280 138 L 1280 200 Z"/>
-    <path class="w3" fill="#003a75" opacity="0.75"
+    <path class="w3" fill="#001a3d" opacity="0.85"
       d="M -80 200 L -80 164 C 100 142, 260 178, 420 158 S 660 138, 810 162 S 1020 182, 1170 160 S 1250 150, 1280 158 L 1280 200 Z"/>
   </g>
 
