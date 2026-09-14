@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Devashish%20Dhaulakhandi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+  <img src="./banner.svg" width="100%" />
 </p>
 
 <p align="center">I work on GPU systems and compilers.</p>
@@ -14,10 +14,13 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,cmake,mysql,postgres,docker,tensorflow,arduino,raspberrypi&perline=9" />
 </p>
 
-### Activity
+### Current research
+
+<p align="center">Static analysis for GPU programs — catching data races and memory-safety bugs.</p>
+<p align="center">Compilers and program analysis (LLVM / MLIR). Sometimes: Linux kernel tracing with eBPF.</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Devashish-Dh&hide_border=true" />
+  <img src="./research.svg" />
 </p>
 
 ### More about me
