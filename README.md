@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" />
+  <img src="./banner.svg?v=2" width="100%" />
 </p>
 
 <p align="center">I work on GPU systems and compilers.</p>
